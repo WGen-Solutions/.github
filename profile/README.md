@@ -7,7 +7,7 @@
 
 
 ## Environments
-- `Dev`: This is the environment to which developers push their changes to test it outside of their local setup.
+- [`Dev`](http://dev.wisdomcircle.com): This is the environment to which developers push their changes to test it outside of their local setup.
 - `UAT`: This is the environment to which changes are pushed for being tested by internal stakeholders and non-developers.
 - `Production`: This is the environment to which changes are pushed when they are ready to be made live.
 
